@@ -3,7 +3,7 @@
 
 # @Time    : 2019/2/19 9:36
 # @Author  : Despicable Me
-# @Email   : 
+# @Email   :
 # @File    : abstractcollection.py
 # @Software: PyCharm
 # @Explain :

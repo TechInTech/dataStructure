@@ -42,7 +42,7 @@ class ERView(object):
         else:
             while not self.model.isEmpty():
                 self.treatNext()
-   
+
     def schedule(self):
         """Obtains patient info and schedules patient."""
         name = input("\nEnter the patient's name: ")
@@ -81,5 +81,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-            
